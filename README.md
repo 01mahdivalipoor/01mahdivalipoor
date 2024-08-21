@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A curious programmer.</h3>
-
-- 💬 Ask me about **Flutter ,Dart ,Bloc ,Rest API**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15gWi3BZrKRNCXYCS3wloiLbiXT0B5Oqh/view?usp=sharing](https://drive.google.com/file/d/15gWi3BZrKRNCXYCS3wloiLbiXT0B5Oqh/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahdivalipoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdivalipoor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13221882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13221882" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<h1>👋 ,I'm Mahdi</h1>
+<p>A curious programmer...</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://drive.google.com/file/d/15gWi3BZrKRNCXYCS3wloiLbiXT0B5Oqh/view?usp=sharing">See My Flutter Projects Here...</a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/mahdivalipoor" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/13221882" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
