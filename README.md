@@ -7,5 +7,5 @@
 <ul>
 <li><a target="_blank" href="https://drive.google.com/file/d/15gWi3BZrKRNCXYCS3wloiLbiXT0B5Oqh/view?usp=sharing">See My Flutter Projects Here...</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://linkedin.com/in/mahdivalipoor" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/13221882" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<p><a target="_blank" href="https://linkedin.com/in/mahdivalipoor" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/13221882" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
